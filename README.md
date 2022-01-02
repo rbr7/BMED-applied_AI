@@ -1,1 +1,1 @@
-# BMED_applied_AI
+# BMED applied AI
